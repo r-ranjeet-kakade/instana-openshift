@@ -55,7 +55,7 @@ spec:
                 fieldRef:
                   fieldPath: status.hostIP
             - name: INSTANA_AGENT_PORT
-              value: '1444'
+              value: '42699'
             - name: INSTANA_SERVICE_NAME
               value: hotel-v1-python
             - name: INSTANA_AUTOPROFILE
