@@ -55,7 +55,7 @@ spec:
                 fieldRef:
                   fieldPath: status.hostIP
             - name: INSTANA_AGENT_PORT
-              value: '42699'
+              value: '1444'
             - name: INSTANA_SERVICE_NAME
               value: destination-v1
             - name: INSTANA_AUTOPROFILE
